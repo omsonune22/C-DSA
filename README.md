@@ -27,4 +27,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/omsonune22/C-DSA/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/omsonune22/C-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 <!---LeetCode Topics End-->
