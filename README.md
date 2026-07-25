@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/omsonune22/C-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/omsonune22/C-DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/omsonune22/C-DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/omsonune22/C-DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/omsonune22/C-DSA/tree/master/0189-rotate-array) |
@@ -39,6 +40,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/omsonune22/C-DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/omsonune22/C-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/omsonune22/C-DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/omsonune22/C-DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omsonune22/C-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/omsonune22/C-DSA/tree/master/0136-single-number) |
