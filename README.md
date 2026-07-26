@@ -48,6 +48,7 @@
 | [0189-rotate-array](https://github.com/omsonune22/C-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/omsonune22/C-DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/omsonune22/C-DSA/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/omsonune22/C-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/omsonune22/C-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/omsonune22/C-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
@@ -59,6 +60,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/omsonune22/C-DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/omsonune22/C-DSA/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/omsonune22/C-DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -76,4 +78,8 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/omsonune22/C-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/omsonune22/C-DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
