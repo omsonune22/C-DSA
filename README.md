@@ -58,6 +58,7 @@
 | [0704-binary-search](https://github.com/omsonune22/C-DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/omsonune22/C-DSA/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/omsonune22/C-DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1539-kth-missing-positive-number](https://github.com/omsonune22/C-DSA/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/omsonune22/C-DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/omsonune22/C-DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/omsonune22/C-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -108,4 +109,5 @@
 | [0704-binary-search](https://github.com/omsonune22/C-DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/omsonune22/C-DSA/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/omsonune22/C-DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1539-kth-missing-positive-number](https://github.com/omsonune22/C-DSA/tree/master/1539-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
