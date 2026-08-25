@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/omsonune22/C-DSA/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/omsonune22/C-DSA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/omsonune22/C-DSA/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/omsonune22/C-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/omsonune22/C-DSA/tree/master/0125-valid-palindrome) |
+| [1903-largest-odd-number-in-string](https://github.com/omsonune22/C-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -110,4 +112,8 @@
 | [0875-koko-eating-bananas](https://github.com/omsonune22/C-DSA/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/omsonune22/C-DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/omsonune22/C-DSA/tree/master/1539-kth-missing-positive-number) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/omsonune22/C-DSA/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
