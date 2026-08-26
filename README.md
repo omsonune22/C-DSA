@@ -22,6 +22,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/omsonune22/C-DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/omsonune22/C-DSA/tree/master/0125-valid-palindrome) |
 | [1903-largest-odd-number-in-string](https://github.com/omsonune22/C-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/omsonune22/C-DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/omsonune22/C-DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/omsonune22/C-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/omsonune22/C-DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/omsonune22/C-DSA/tree/master/0033-search-in-rotated-sorted-array) |
@@ -116,4 +118,8 @@
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/omsonune22/C-DSA/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/omsonune22/C-DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
