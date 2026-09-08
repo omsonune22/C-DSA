@@ -26,6 +26,7 @@
 | [0125-valid-palindrome](https://github.com/omsonune22/C-DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/omsonune22/C-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/omsonune22/C-DSA/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/omsonune22/C-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/omsonune22/C-DSA/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/omsonune22/C-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
@@ -80,6 +81,7 @@
 | [0169-majority-element](https://github.com/omsonune22/C-DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/omsonune22/C-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/omsonune22/C-DSA/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/omsonune22/C-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/omsonune22/C-DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
@@ -87,6 +89,7 @@
 | [0075-sort-colors](https://github.com/omsonune22/C-DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/omsonune22/C-DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/omsonune22/C-DSA/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/omsonune22/C-DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -95,6 +98,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/omsonune22/C-DSA/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/omsonune22/C-DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Simulation
 |  |
 | ------- |
@@ -132,4 +136,12 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/omsonune22/C-DSA/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/omsonune22/C-DSA/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/omsonune22/C-DSA/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
